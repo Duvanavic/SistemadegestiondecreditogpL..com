@@ -1,4 +1,4 @@
-# SISTEMA DE GESTION DE CREDITO GLOBAL PACIFIC 
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
